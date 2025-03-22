@@ -10,3 +10,6 @@
 	<img src = "https://raw.githubusercontent.com/luiandre13/luiandre13/output/github-contribution-grid-snake-dark.svg" alt = "Snake Game"/>
 </p>
 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width = 350px></picture>
