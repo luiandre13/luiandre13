@@ -65,3 +65,5 @@
   <h2>📌 Lenguajes más usados</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiandre13&layout=pie" alt="Top Langs" />
 </div>
+
+![](./profile-3d-contrib/profile-green-animate.svg)
