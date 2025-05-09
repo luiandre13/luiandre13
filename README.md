@@ -26,3 +26,42 @@
 - 🚢 Enthusiast of automation and optimization in port operations
 - 🌍 Open to collaborations and knowledge-sharing in the tech community
 - 📚 Constantly reading about new trends in technology and software development
+
+<!--[![luiandre13's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=luiandre13&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/luiandre13/github-readme-stats#gh-dark-mode-only)
+[![luiandre13's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=luiandre13&show_icons=true&theme=dracula#gh-light-mode-only)](https://github.com/luiandre13/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luiandre13&layout=pie)](https://github.com/luiandre13/github-readme-stats)-->
+
+<!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/luiandre13/github-readme-stats) -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <picture>
+          <source 
+            srcset="https://github-readme-stats.vercel.app/api?username=luiandre13&show_icons=true&theme=dark"
+            media="(prefers-color-scheme: dark)"
+          />
+          <source 
+            srcset="https://github-readme-stats.vercel.app/api?username=luiandre13&show_icons=true&theme=dracula"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          />
+          <img src="https://github-readme-stats.vercel.app/api?username=luiandre13&show_icons=true" alt="GitHub Stats" />
+        </picture>
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=luiandre13&theme=dark" alt="GitHub Streak"/>
+      </td>
+    </tr>
+  </table>
+
+  <br />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luiandre13&theme=github_dark" alt="Resumen de perfil"/>
+
+  <br /><br />
+
+  <h2>📌 Lenguajes más usados</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiandre13&layout=pie" alt="Top Langs" />
+</div>
