@@ -69,5 +69,5 @@
 <h2 align="center">🧱 Contribuciones en 3D</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/luiandre13/luiandre13/main/profile-3d-contrib/profile-green-animate.svg" alt="3D GitHub Contributions" />
+  <img src="https://raw.githubusercontent.com/luiandre13/luiandre13/main/profile-3d-contrib/profile-south-season-animate.svg" alt="3D GitHub Contributions" />
 </p>
